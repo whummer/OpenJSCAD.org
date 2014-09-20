@@ -1,0 +1,11 @@
+{
+  "name" : "openjscad",
+  "description": "OpenSCAD + JavaScript = OpenJSCAD, edit locally or remote online, preview in browser direct via WebGL.",
+  "version" : "0.017",
+  "main": "./openjscad.js",
+  "url": "https://github.com/Spiritdude/OpenJSCAD.org",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/Spiritdude/OpenJSCAD.org"
+  }
+}
